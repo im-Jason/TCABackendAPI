@@ -1,20 +1,4 @@
 {
-  "author": "Harsh Patel",
-  "dependencies": {
-	"package-name":"1.1.0",
-    "express": "^4.14.0"
-  },
-  "description":"Backend API TCA assignment",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords":["freecodecamp","BackendAPI"],
-  "repository": {
-    "type": "git",
-    "url": "https://idontknow/todo.git"
-  },
-  "package":"~1.2.13",
-  "version": "1.2.13",
-  "license": "ISC"
+  "author": "Harsh Patel"
+  
 }
