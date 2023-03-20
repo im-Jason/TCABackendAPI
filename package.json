@@ -1,18 +1,20 @@
 {
-  "name": "fcc-learn-npm-package-json",
   "author": "Harsh Patel",
   "dependencies": {
+	"package-name":"1.1.0",
     "express": "^4.14.0"
   },
+  "description":"Backend API TCA assignment",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "keywords":["freecodecamp","BackendAPI"],
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
-  "version": "1.0.0",
+  "package":"~1.2.13",
+  "version": "1.2.13",
   "license": "ISC"
 }
